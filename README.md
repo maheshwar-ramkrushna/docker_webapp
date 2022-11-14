@@ -18,4 +18,4 @@ docker run -dp 3000:3000 getting-started
 
 #access the url , if u r executing on dgx machine
 
-http://<dgx_ip>:3000
+http://<d_ip>:3000
